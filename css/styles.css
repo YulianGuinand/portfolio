@@ -372,7 +372,7 @@ p.about__container-link{
 }
 
 .project__image-one-p{
-    background: url(../../Portfolio/images/ping_website.jpg);
+    background: url(../images/ping_website.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -381,7 +381,7 @@ p.about__container-link{
     position: relative;
     top: -100px;
     left: -250px;
-    background: url(../../Portfolio/images/Website_Vin.png);
+    background: url(../images/Website_Vin.png);
     background-size: cover;
     background-position: center;
 }
@@ -389,7 +389,7 @@ p.about__container-link{
 .project__image-three-p{
     position: relative;
     left: 300px;
-    background: url(../../Portfolio/images/card_ex.png);
+    background: url(../images/card_ex.png);
     background-size: cover;
     background-position: center;
 }
@@ -399,7 +399,7 @@ p.about__container-link{
     position: relative;
     top: -200px;
     left: -100px;
-    background: url(../../Portfolio/images/Website_Car.png);
+    background: url(../images/Website_Car.png);
     background-size: cover;
     background-position: center;
 }
@@ -528,7 +528,7 @@ p.about__container-link{
     top: 0;
     left: 0;
     display: block;
-    background-image: url(../../Portfolio/images/back_ping.png);
+    background-image: url(../images/back_ping.png);
     background-size: cover;
     background-position: center;
     border-radius: 100%;
@@ -578,7 +578,7 @@ p.about__container-link{
     top: 0;
     left: 0;
     display: block;
-    background: url(../../Portfolio/images/back_piano.png);
+    background: url(../images/back_piano.png);
     background-position: center;
     background-size: cover;
     border-radius: 100%;
@@ -605,7 +605,7 @@ p.about__container-link{
     top: 0;
     left: 0;
     display: block;
-    background: url(../../portfolio/images/back_web.png);
+    background: url(../images/back_web.png);
     background-position: center;
     background-size: cover;
     border-radius: 100%;
@@ -632,7 +632,7 @@ p.about__container-link{
     top: 0;
     left: 0;
     display: block;
-    background: url(../../portfolio/images/back_friends.png);
+    background: url(../images/back_friends.png);
     background-position: center;
     background-size: cover;
     border-radius: 100%;
