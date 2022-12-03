@@ -277,10 +277,12 @@ p.about__container-link{
 .project__image-one-l{
     background: url(../images/ping_pong.jpg) no-repeat 50% 50%;
     background-size: cover;
+    border-radius: 5%;
 }
 
 .project__image-two-l{
     position: relative;
+    border-radius: 5%;
     top: -100px;
     left: -250px;
     background: url(../images/piano.jpg) no-repeat 50% 50%;
@@ -289,6 +291,7 @@ p.about__container-link{
 
 .project__image-three-l{
     position: relative;
+    border-radius: 5%;
     left: 300px;
     background: url(../images/webdev.jpg) no-repeat 50% 50%;
     background-size: cover;
@@ -296,10 +299,20 @@ p.about__container-link{
 
 .project__image-four-l{
     position: relative;
+    border-radius: 5%;
     top: -200px;
     left: -100px;   
     background: url(../images/amis.jpg) no-repeat 50% 50%;
     background-size: 100%;
+}
+.spotify p{
+    transform: rotate(-90deg);
+    right: -180px;
+    top: 180px;
+    position: absolute;
+    text-align: center;
+    font-family: 'chivolight';
+    font-size: 25px;
 }
 
 .project__image-one-e{
@@ -372,7 +385,7 @@ p.about__container-link{
 }
 
 .project__image-one-p{
-    background: url(../../Portfolio/images/ping_website.jpg);
+    background: url(../images/ping_website.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -381,7 +394,7 @@ p.about__container-link{
     position: relative;
     top: -100px;
     left: -250px;
-    background: url(../../Portfolio/images/Website_Vin.png);
+    background: url(../images/Website_Vin.png);
     background-size: cover;
     background-position: center;
 }
@@ -389,7 +402,7 @@ p.about__container-link{
 .project__image-three-p{
     position: relative;
     left: 300px;
-    background: url(../../Portfolio/images/card_ex.png);
+    background: url(../images/card_ex.png);
     background-size: cover;
     background-position: center;
 }
@@ -399,7 +412,7 @@ p.about__container-link{
     position: relative;
     top: -200px;
     left: -100px;
-    background: url(../../Portfolio/images/Website_Car.png);
+    background: url(../images/Website_Car.png);
     background-size: cover;
     background-position: center;
 }
@@ -528,7 +541,7 @@ p.about__container-link{
     top: 0;
     left: 0;
     display: block;
-    background-image: url(../../Portfolio/images/back_ping.png);
+    background-image: url(../images/back_ping.png);
     background-size: cover;
     background-position: center;
     border-radius: 100%;
@@ -578,7 +591,7 @@ p.about__container-link{
     top: 0;
     left: 0;
     display: block;
-    background: url(../../Portfolio/images/back_piano.png);
+    background: url(../images/back_piano.png);
     background-position: center;
     background-size: cover;
     border-radius: 100%;
@@ -605,7 +618,7 @@ p.about__container-link{
     top: 0;
     left: 0;
     display: block;
-    background: url(../../portfolio/images/back_web.png);
+    background: url(../images/back_web.png);
     background-position: center;
     background-size: cover;
     border-radius: 100%;
@@ -632,7 +645,7 @@ p.about__container-link{
     top: 0;
     left: 0;
     display: block;
-    background: url(../../portfolio/images/back_friends.png);
+    background: url(../images/back_friends.png);
     background-position: center;
     background-size: cover;
     border-radius: 100%;
@@ -687,7 +700,7 @@ p.about__container-link{
 
 .project-next-link{
     position: relative;
-    top: -100px;
+    top: 200px;
     width: 100%;
     height: 400px;
     display: flex;
@@ -769,7 +782,7 @@ p.about__container-link{
     }
     
 
-    
+
 
     .project__image-two-e{
         display: flex;
