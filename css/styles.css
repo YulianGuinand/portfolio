@@ -720,6 +720,18 @@ p.about__container-link{
     line-height: 1em;
 }
 
+@media (min-width: 1300px) {
+    .spotify{
+        top: -300px;
+    }
+}
+@media (max-width: 1300px) {
+    .spotify{
+        top: -50px;
+    }
+}
+
+
 @media (max-width: 1300px) {
     .project__container-title h1{
         font-size: 40px;
@@ -780,7 +792,6 @@ p.about__container-link{
         opacity: 1;
         transform: translateY(50px);
     }
-    
 
 
 
